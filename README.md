@@ -6,4 +6,4 @@ To have it available in SceneBuilder just put the jar in the custom library fold
 Masked:  
 ![masked](./masked.png)  
 Unmasked:  
-![unmasked](./unmasked.png)
+![unmasked](./unmasked.png)  
